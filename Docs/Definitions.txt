@@ -1,0 +1,1 @@
+Las unidades organizativas, u OU, se utilizan para segregar grupos de usuarios, computadoras u otros objetos en Active Directory sin la sobrecarga de crear un dominio completamente nuevo para ellos. Puede aplicar diferentes políticas de grupo a diferentes unidades organizativas y tener diferentes requisitos de contraseña.
